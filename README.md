@@ -1,1 +1,2 @@
 # Persistencia-de-Dados
+• Nesse projeto eu aprendi mais sobre persistência de dados utilizando DAO, nele eu faço todo o Data Acess Object utilizando Java, para alterar dados de um banco PostgreSQL, tendo antes que fazer a conexão do mesmo via ConnectionDB, Com isso eu pude aprimorar meus conhecimentos com banco de dados relacionais, mas também a criar mêtodos de acesso aos dados. Pude revisar os conhecimentos que possuia em Java, como também obtive novos conhecimentos utilizando a Library Java.Persistence, e aprimorei a criação de Classes e Mêtodos.
